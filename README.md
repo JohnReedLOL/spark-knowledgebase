@@ -17,4 +17,4 @@ The contents contained here is also published in [Gitbook format](http://databri
 * [Spark Streaming](spark_streaming/README.md)
    * [ERROR OneForOneStrategy](spark_streaming/error_oneforonestrategy.md)
 
-This content is covered by the license specified [here](LICENSE).
+This content is covered by the license specified [here](LICENSE). 
